@@ -2,7 +2,7 @@
  1. Token abbreviation (Ticker): BOXBOX
 2. English name of Token:  F1 meme
 3. Trade pair:  BOXBOX / USDT
-11. Official website:  f1meme.com
+11. Official website:  [f1meme.com](f1meme.com)
 12. Twitter link:  https://twitter.com/F1memeBoxbox 
 14. Telegram link:  https://t.me/+Fh1tZvWni8oxM2Zh
 15. Number of Telegram followers: 4
@@ -19,6 +19,9 @@
 22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
 29. Expected launch time:  12 April 2024
 30. Listed on which exchanges: Jupiter DEX 
+16. Whitepaper link: [whitepaper.md](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
+
+
 
 
 4. Currency Issuance time:  
@@ -27,7 +30,7 @@
 9. Total market value: (unit: USDT) 
 10. Circulation market value: (unit: USDT) 
 
-16. Whitepaper link:
+
 19. Quantity decimal place: 
 20. Token price decimal place:
 
