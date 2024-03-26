@@ -9,12 +9,11 @@
 17. Official email: f1meme@proton.me
 23. Chain type (BSC, ERC, TRC, etc.): SOL
 28. Are we the first exchange to launch token (the first currency will have a 15-day anti-breaking setting): yes
-
+5. Total Issue supply:   136,000,000,000
 
 
 
 4. Currency Issuance time:  
-5. Total Issue supply:  
 6. Total circulation supply:
 7. Issuance price:
 8. Current price:
