@@ -15,6 +15,10 @@
 8. Current price: 0 usdt
 21. Opening price: 0.000001 usdt
 13. Number of Twitter followers: 0
+18. Project Introduction : Distributing Meme Tokens to all the F1 fans who follows new memes after each and every F1 sessions   
+22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
+29. Expected launch time:  12 April 2024
+30. Listed on which exchanges: Jupiter DEX 
 
 
 4. Currency Issuance time:  
@@ -24,17 +28,13 @@
 10. Circulation market value: (unit: USDT) 
 
 16. Whitepaper link:
-18. Project Introduction : 
 19. Quantity decimal place: 
 20. Token price decimal place:
 
-22. Whether any presale (if there is presale needs to fill in the first round price): 
 24. Contract address: 
 25. Link to Blockchain Explorer: 
 26. Number of coin holding addresses: 
 
-29. Expected launch time:
-30. Listed on which exchanges: 
 31. LOGO (PNG format): 
 32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?): 
 33. CoinMarketCap query link: 
