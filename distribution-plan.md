@@ -7,7 +7,7 @@ Method: Distribute an initial amount of tokens through airdrops to users who sig
 ## 2. CEX Listing:
 
 Objective: Easy for formula 1 fans that has no crypto background to purchase BOXBOX token.
-Method: Bybit is the sponsor of RedBull Racing that is winning all the Formula 1 races. OKX is the sponsor of Mclaren racing team, both Mclaren drivers are very young and appealing to the Alpha generation who are very familiar with crypto. We are targeting future listing in these both exchanges. 
+Method: Bybit is the sponsor of RedBull Racing that is winning all the Formula 1 races. OKX is the sponsor of Mclaren racing team, both Mclaren drivers are very young and appealing to the Alpha generation who are very familiar with crypto. We are targeting future listing in both of these exchanges. 
 
 
 ## 3. Loyalty Rewards:
