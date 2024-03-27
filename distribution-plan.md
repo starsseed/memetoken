@@ -44,7 +44,7 @@ Method: Recruit influential fans and personalities within the F1 community as am
 ## 10. Merchandise and Experiences:
 
 Objective: Provide real-world value to token holders. <br>
-Method: Allow token redemption for exclusive merchandise or F1 experiences, releasing tokens from the project reserves as needed.
+Method: Allow token redemption for exclusive merchandise, grand stand tickets or F1 experiences, releasing tokens from the project reserves as needed.
 ## Key Considerations:
 Transparency: Regularly update the community on the status of the token distribution and usage of funds.
 Regulatory Compliance: Ensure that the distribution plan complies with all applicable laws and regulations regarding cryptocurrencies.
