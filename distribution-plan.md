@@ -1,4 +1,3 @@
-Certainly! A well-thought-out distribution plan is essential for the success and longevity of a meme token like BOXBOX. It needs to balance wide distribution with retaining value, and encourage both initial purchase and ongoing engagement. Here's an idea for a distribution plan:
 
 BOXBOX Token Distribution Plan
 ## 1. Community Airdrop:
