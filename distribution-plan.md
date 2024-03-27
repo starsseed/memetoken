@@ -4,10 +4,12 @@ BOXBOX Token Distribution Plan
 
 Objective: Kickstart the community and reward early supporters.
 Method: Distribute an initial amount of tokens through airdrops to users who sign up, join your community channels, and engage with content.
-## 2. Token Sale Rounds:
+## 2. CEX Listing:
 
-Objective: Raise funds and distribute tokens to a broader audience.
-Method: Conduct pre-sale and public sale rounds, limiting purchase amounts to avoid large concentrations of tokens with a few holders.
+Objective: Easy for formula 1 fans that has no crypto background to purchase BOXBOX token.
+Method: Bybit is the sponsor of RedBull Racing that is winning all the Formula 1 races. OKX is the sponsor of Mclaren racing team, both Mclaren drivers are very young and appealing to the Alpha generation who are very familiar with crypto. We are targeting future listing in these both exchanges. 
+
+
 ## 3. Loyalty Rewards:
 
 Objective: Encourage long-term holding and ongoing community involvement.
