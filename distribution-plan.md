@@ -45,6 +45,7 @@ Method: Host regular contests and fantasy F1 competitions where participants can
 Objective: Expand community outreach. <br>
 Method: Recruit influential fans and personalities within the F1 community as ambassadors who will promote the token in exchange for a set amount of tokens.
 ## 10. Merchandise and Experiences:
+![grid-girl-yellow-costume](https://github.com/starsseed/memetoken/assets/146839166/0bbe11da-fcc9-4c6c-8e5a-dfd8200ad831)
 
 Objective: Provide real-world value to token holders. <br>
 Method: Allow token redemption for exclusive merchandise, grand stand tickets or F1 experiences, releasing tokens from the project reserves as needed.
