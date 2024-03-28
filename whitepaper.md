@@ -51,7 +51,7 @@ Contract address: AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
 
 Link to Blockchain Explorer: https://solscan.io/account/AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
 
-Currency Issuance time: March 28, 2024 01:40:19 +UTC
+Token Mint Date: March 28, 2024 01:40:19 +UTC
 
 
 
