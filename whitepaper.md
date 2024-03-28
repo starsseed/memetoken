@@ -26,7 +26,7 @@ So, if the spirit of Formula 1 for you includes not just the rush of adrenaline 
 if you are making f1 memes in twitter, tag us F1memeBoxbox and we will repost the tweet.
 
 
-
+<br><br>
 ### BOXBOX token 
 
 ![f1 meme v4-01](https://github.com/starsseed/memetoken/assets/146839166/8476b0d0-dbaf-4c01-834c-9cf7a6de6c33)
@@ -54,7 +54,7 @@ Link to Blockchain Explorer: https://solscan.io/account/AaKpY4shheMimaRxDQrqkJLq
 Token Mint Date: March 28, 2024 01:40:19 +UTC
 
 
-
+<br><br>
 
 ### Club Activity
 
