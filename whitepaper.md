@@ -69,83 +69,60 @@ We wholeheartedly encourage every community member to take the initiative in hos
 
 <br><br>
 1. **Weekly Meme Contests:** Encourage members to create and share F1-related memes, with a vote to pick the best ones. Offer BOXBOX tokens as prizes for the winners.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 3. **Virtual Race Viewings:** Organize virtual watch parties for races, qualifying, and practice sessions, where members can chat and share memes in real-time.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 5. **Meme-Making Workshops:** Host sessions teaching meme creation, using popular F1 moments to create engaging content.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 6. **Driver AMA Sessions:** Coordinate Ask Me Anything (AMA) sessions with racing drivers, team members, or notable F1 personalities, possibly incentivizing their participation with donations in BOXBOX tokens.
 
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 7. **Fantasy F1 Leagues:** Run a fantasy Formula 1 league where members can use BOXBOX tokens to make their picks and win prizes based on race outcomes.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 8. **Meme Token Race Predictions:** Before each race, members can wager BOXBOX tokens on various outcomes, such as podium finishes, fastest laps, or retirements.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 9. **F1 Trivia Nights:** Organize trivia events with questions ranging from historical facts to current season statistics, with BOXBOX tokens as rewards for top scorers.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 8.**Creative Collaborations:** Partner with F1 Trolls and other meme creators to host collaborative challenges and activities, boosting visibility and member engagement.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 9.**Annual Meme Awards:** Have an end-of-year event celebrating the best F1 memes, as voted by the community, with categories like 'Funniest Meme', 'Best Driver Meme', or 'Best Race Moment Meme'.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+ 
 <br><br>
 10. **Meme Token Merchandise:** Offer club merchandise that can be purchased with BOXBOX tokens, like T-shirts, hats, or stickers featuring popular memes from the community.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 11. **Token Airdrops for Participation:** Reward active community participation with BOXBOX token airdrops, incentivizing members to engage with the club's activities.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 12. **Meme Education Series:** Create content that educates new fans about the history and culture of F1, using memes as a fun and engaging medium.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 13.**Community Spotlights:** Feature community members, especially those who are prolific meme creators or have unique insights into F1, in regular spotlights.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+ 
 <br><br>
 14. **Philanthropic Events:** Use the power of the community to support charitable causes related to motorsports, with fundraising or awareness campaigns.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 15. **Physical Meetups:** When possible, organize local meetups at Grand Prix locations, bringing the online community into the real world.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 16. **Interactive Race Debriefs:** Post-race discussions and meme-sharing sessions where fans can dissect the weekend's events.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+ 
 <br><br>
 17.**'Meme of the Race' Vote:** After each race, have the community vote on a 'Meme of the Race' that best captures the most memorable moment.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 18.**F1 Meme Exhibitions:** Showcase a curated collection of the community's best memes in a virtual gallery.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
+
 <br><br>
 19.**Meme Token Marketplace:** Develop a marketplace where members can use BOXBOX tokens to trade or sell F1-related memorabilia.
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
 <br><br>
 20.**Onboarding Events:** Help new members understand the world of F1, meme-making, and the utility of BOXBOX tokens with dedicated onboarding sessions.
-
-<br>
-Add your tg username here if you are interested in joining or hosting this activity. 
