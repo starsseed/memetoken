@@ -31,7 +31,10 @@
 
 
 
-4. Currency Issuance time:  
+4. Currency Issuance time:   March 28, 2024 01:40:19 +UTC
+
+#### pending 
+
 6. Total circulation supply:
 
 9. Total market value: (unit: USDT) 
