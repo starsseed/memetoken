@@ -1,4 +1,4 @@
-    ![Frog, the BOXBOX mascot](/assets/images/frog.jpeg)
+    ![Frog, the BOXBOX mascot](relative%20path/assets/images/frog.jpeg)
 
 
 
