@@ -43,4 +43,4 @@
 19. Quantity decimal place: 
 33. CoinMarketCap query link: 
 34. CoinGecko query link: 
-35. Any special needs/requests, and the content of the needs:  Token2049 Singapore - contest and giveaway. 
+35. Any special needs/requests, and the content of the needs:  Token2049 Singapore - contest and giveaway. Assuming we will hit the price $0.0001 in september, we give away 1 million BOXBOX token for each member who has 1. min 1,000,000 BOXBOX token for 90 days .  2. wearing Yellow color shirt 3. with Singapore F1 grand stand ticket.  
