@@ -22,6 +22,13 @@
 16. Whitepaper link: [whitepaper.md](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
 
 
+32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?):   [whitepaper.md](https://github.com/starsseed/memetoken/blob/main/distribution-plan.md)
+20. Token price decimal place: 6
+
+24. Contract address: AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
+25. Link to Blockchain Explorer:  https://solscan.io/account/AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
+26. Number of coin holding addresses: 1
+
 
 
 4. Currency Issuance time:  
@@ -32,14 +39,9 @@
 
 
 19. Quantity decimal place: 
-20. Token price decimal place:
 
-24. Contract address: 
-25. Link to Blockchain Explorer: 
-26. Number of coin holding addresses: 
 
 31. LOGO (PNG format): 
-32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?): 
 33. CoinMarketCap query link: 
 34. CoinGecko query link: 
 35. Any special needs/requests, and the content of the needs: 
