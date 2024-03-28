@@ -1,4 +1,4 @@
-    ![Frog, the BOXBOX mascot](https://raw.githubusercontent.com/starsseed/memetoken/main/assets/images/frog.jpeg)
+![boxbox token](https://github.com/starsseed/memetoken/assets/146839166/f41406c9-0a19-409c-9c0d-b38cfaff58da)
 
 
 
