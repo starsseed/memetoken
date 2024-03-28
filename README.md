@@ -19,10 +19,10 @@
 22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
 29. Expected launch time:  12 April 2024
 30. Listed on which exchanges: Jupiter DEX 
-16. Whitepaper link: [whitepaper.md](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
+16. Whitepaper link: [whitepaper ](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
 
 
-32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?):   [whitepaper.md](https://github.com/starsseed/memetoken/blob/main/distribution-plan.md)
+32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?):   [distribution plan ](https://github.com/starsseed/memetoken/blob/main/distribution-plan.md)
 20. Token price decimal place: 6
 
 24. Contract address: AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
