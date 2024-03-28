@@ -60,43 +60,44 @@ Token Mint Date: March 28, 2024 01:40:19 +UTC
 
 We wholeheartedly encourage every community member to take the initiative in hosting and organizing their own club activities. Embracing our decentralized culture, we believe that the individual efforts of each member significantly contribute to the overall value of the BOXBOX token, creating a ripple effect that benefits the entire community.
 
-**Weekly Meme Contests:** Encourage members to create and share F1-related memes, with a vote to pick the best ones. Offer BOXBOX tokens as prizes for the winners.
-
-**Virtual Race Viewings:** Organize virtual watch parties for races, qualifying, and practice sessions, where members can chat and share memes in real-time.
-
-**Meme-Making Workshops:** Host sessions teaching meme creation, using popular F1 moments to create engaging content.
-
-**Driver AMA Sessions:** Coordinate Ask Me Anything (AMA) sessions with racing drivers, team members, or notable F1 personalities, possibly incentivizing their participation with donations in BOXBOX tokens.
-
-**Fantasy F1 Leagues:** Run a fantasy Formula 1 league where members can use BOXBOX tokens to make their picks and win prizes based on race outcomes.
-
-**Meme Token Race Predictions:** Before each race, members can wager BOXBOX tokens on various outcomes, such as podium finishes, fastest laps, or retirements.
-
-**F1 Trivia Nights:** Organize trivia events with questions ranging from historical facts to current season statistics, with BOXBOX tokens as rewards for top scorers.
-
-**Creative Collaborations:** Partner with F1 Trolls and other meme creators to host collaborative challenges and activities, boosting visibility and member engagement.
-
-**Annual Meme Awards:** Have an end-of-year event celebrating the best F1 memes, as voted by the community, with categories like 'Funniest Meme', 'Best Driver Meme', or 'Best Race Moment Meme'.
-
-**Meme Token Merchandise:** Offer club merchandise that can be purchased with BOXBOX tokens, like T-shirts, hats, or stickers featuring popular memes from the community.
-
-**Token Airdrops for Participation:** Reward active community participation with BOXBOX token airdrops, incentivizing members to engage with the club's activities.
-
-**Meme Education Series:** Create content that educates new fans about the history and culture of F1, using memes as a fun and engaging medium.
-
-**Community Spotlights:** Feature community members, especially those who are prolific meme creators or have unique insights into F1, in regular spotlights.
-
-**Philanthropic Events:** Use the power of the community to support charitable causes related to motorsports, with fundraising or awareness campaigns.
-
-**Physical Meetups:** When possible, organize local meetups at Grand Prix locations, bringing the online community into the real world.
-
-**Interactive Race Debriefs:** Post-race discussions and meme-sharing sessions where fans can dissect the weekend's events.
-
-**'Meme of the Race' Vote:** After each race, have the community vote on a 'Meme of the Race' that best captures the most memorable moment.
-
-**F1 Meme Exhibitions:** Showcase a curated collection of the community's best memes in a virtual gallery.
-
-**Meme Token Marketplace:** Develop a marketplace where members can use BOXBOX tokens to trade or sell F1-related memorabilia.
-
-**Onboarding Events:** Help new members understand the world of F1, meme-making, and the utility of BOXBOX tokens with dedicated onboarding sessions.
+<br><br>
+1. **Weekly Meme Contests:** Encourage members to create and share F1-related memes, with a vote to pick the best ones. Offer BOXBOX tokens as prizes for the winners.
+<br><br>
+2. **Virtual Race Viewings:** Organize virtual watch parties for races, qualifying, and practice sessions, where members can chat and share memes in real-time.
+<br><br>
+3. **Meme-Making Workshops:** Host sessions teaching meme creation, using popular F1 moments to create engaging content.
+<br><br>
+4. **Driver AMA Sessions:** Coordinate Ask Me Anything (AMA) sessions with racing drivers, team members, or notable F1 personalities, possibly incentivizing their participation with donations in BOXBOX tokens.
+<br><br>
+5. **Fantasy F1 Leagues:** Run a fantasy Formula 1 league where members can use BOXBOX tokens to make their picks and win prizes based on race outcomes.
+<br><br>
+6. **Meme Token Race Predictions:** Before each race, members can wager BOXBOX tokens on various outcomes, such as podium finishes, fastest laps, or retirements.
+<br><br>
+7. **F1 Trivia Nights:** Organize trivia events with questions ranging from historical facts to current season statistics, with BOXBOX tokens as rewards for top scorers.
+<br><br>
+8.**Creative Collaborations:** Partner with F1 Trolls and other meme creators to host collaborative challenges and activities, boosting visibility and member engagement.
+<br><br>
+9.**Annual Meme Awards:** Have an end-of-year event celebrating the best F1 memes, as voted by the community, with categories like 'Funniest Meme', 'Best Driver Meme', or 'Best Race Moment Meme'.
+<br><br>
+10. **Meme Token Merchandise:** Offer club merchandise that can be purchased with BOXBOX tokens, like T-shirts, hats, or stickers featuring popular memes from the community.
+<br><br>
+11. **Token Airdrops for Participation:** Reward active community participation with BOXBOX token airdrops, incentivizing members to engage with the club's activities.
+<br><br>
+12. **Meme Education Series:** Create content that educates new fans about the history and culture of F1, using memes as a fun and engaging medium.
+<br><br>
+13.**Community Spotlights:** Feature community members, especially those who are prolific meme creators or have unique insights into F1, in regular spotlights.
+<br><br>
+14. **Philanthropic Events:** Use the power of the community to support charitable causes related to motorsports, with fundraising or awareness campaigns.
+<br><br>
+15. **Physical Meetups:** When possible, organize local meetups at Grand Prix locations, bringing the online community into the real world.
+<br><br>
+16. **Interactive Race Debriefs:** Post-race discussions and meme-sharing sessions where fans can dissect the weekend's events.
+<br><br>
+17.**'Meme of the Race' Vote:** After each race, have the community vote on a 'Meme of the Race' that best captures the most memorable moment.
+<br><br>
+18.**F1 Meme Exhibitions:** Showcase a curated collection of the community's best memes in a virtual gallery.
+<br><br>
+19.**Meme Token Marketplace:** Develop a marketplace where members can use BOXBOX tokens to trade or sell F1-related memorabilia.
+<br><br>
+20.**Onboarding Events:** Help new members understand the world of F1, meme-making, and the utility of BOXBOX tokens with dedicated onboarding sessions.
 
