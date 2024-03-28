@@ -33,18 +33,14 @@
 
 4. Currency Issuance time:   March 28, 2024 01:40:19 +UTC
 
+31. LOGO (PNG format):  ![Logo in PNG v2 ](https://github.com/starsseed/memetoken/assets/146839166/439e9dc2-8fe5-4239-976d-c3c603e8e28a)
+
 #### pending 
 
 6. Total circulation supply:
-
 9. Total market value: (unit: USDT) 
 10. Circulation market value: (unit: USDT) 
-
-
 19. Quantity decimal place: 
-
-
-31. LOGO (PNG format): 
 33. CoinMarketCap query link: 
 34. CoinGecko query link: 
-35. Any special needs/requests, and the content of the needs: 
+35. Any special needs/requests, and the content of the needs:  Token2049 Singapore - contest and giveaway. 
