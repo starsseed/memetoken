@@ -1,3 +1,6 @@
+    ![Frog, the BOXBOX mascot](/assets/images/frog.png)
+
+
 
 BOXBOX Token Distribution Plan
 ## 1. Community Airdrop:
