@@ -14,6 +14,9 @@
 7. Issuance price: 0.000001 usdt
 8. Current price: 0 usdt
 21. Opening price: 0.000001 usdt
+
+6. Total circulation supply: 0 
+19. Quantity decimal place:  9 
 13. Number of Twitter followers: 0
 18. Project Introduction : Distributing Meme Tokens to all the F1 fans who follows new memes after each and every F1 sessions   
 22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
@@ -35,12 +38,13 @@
 
 31. LOGO (PNG format):  ![Logo in PNG v2 ](https://github.com/starsseed/memetoken/assets/146839166/439e9dc2-8fe5-4239-976d-c3c603e8e28a)
 
+####  keep updating 
+
+9. Total market value: (unit: USDT)  0 
+10. Circulation market value: (unit: USDT)  0 
+
 #### pending 
 
-6. Total circulation supply:
-9. Total market value: (unit: USDT) 
-10. Circulation market value: (unit: USDT) 
-19. Quantity decimal place: 
 33. CoinMarketCap query link: 
 34. CoinGecko query link: 
 35. Any special needs/requests, and the content of the needs:  Token2049 Singapore - contest and giveaway. Assuming we will hit the price $0.0001 in september, we give away 1 million BOXBOX token for each member who has 1. min 1,000,000 BOXBOX token for 90 days .  2. wearing Yellow color shirt 3. with Singapore F1 grand stand ticket.  
