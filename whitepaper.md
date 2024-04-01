@@ -1,7 +1,20 @@
-<img width="430" alt="camera crew" src="https://github.com/starsseed/memetoken/assets/146839166/4aeeec36-b962-4025-abe3-81fae7f6b5c6">
+
+## What Day is Sunday ? Church Day ! 
+
+## Where do we go on Church Day ?  to the Grand Prix ! 
+
+
+
+![BOXBOX Culture](https://github.com/starsseed/memetoken/assets/146839166/95d2a6e6-b499-43bf-acee-3b568e92121c)
+Boxbox culture
+
 
 
 We might get spotted by the camera crew and millions of fans at home will find out our Token project. 
+
+<img width="430" alt="camera crew" src="https://github.com/starsseed/memetoken/assets/146839166/4aeeec36-b962-4025-abe3-81fae7f6b5c6">
+
+
 
 <br><br>
 
