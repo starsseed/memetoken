@@ -1,7 +1,7 @@
 <img width="430" alt="camera crew" src="https://github.com/starsseed/memetoken/assets/146839166/4aeeec36-b962-4025-abe3-81fae7f6b5c6">
 
 
-We need to get spotted by the camera crew and millions of fans at home will find out our Token project. 
+We might get spotted by the camera crew and millions of fans at home will find out our Token project. 
 
 <br><br>
 
