@@ -83,6 +83,8 @@ We wholeheartedly encourage every community member to take the initiative in hos
 <br><br>
 7. **Fantasy F1 Leagues:** Run a fantasy Formula 1 league where members can use BOXBOX tokens to make their picks and win prizes based on race outcomes.
 
+![Sport Betting Formula 1](https://github.com/starsseed/memetoken/assets/3645844/7adc0ed7-b74b-49f0-909c-153c4b40ea4d)
+
 <br><br>
 8. **Meme Token Race Predictions:** Before each race, members can wager BOXBOX tokens on various outcomes, such as podium finishes, fastest laps, or retirements.
 
