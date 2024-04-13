@@ -40,7 +40,7 @@
 
 ####  keep updating 
 
-9. Total market value: (unit: USDT)  0 
+9. Total market value: (unit: USDT)  1,990,0000 
 10. Circulation market value: (unit: USDT)  0 
 
 #### pending 
