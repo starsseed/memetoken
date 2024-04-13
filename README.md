@@ -17,20 +17,20 @@
 
 6. Total circulation supply: 0 
 19. Quantity decimal place:  9 
-13. Number of Twitter followers: 0
+13. Number of Twitter followers: 500
 18. Project Introduction : Distributing Meme Tokens to all the F1 fans who follows new memes after each and every F1 sessions   
 22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
 29. Expected launch time:  12 April 2024
-30. Listed on which exchanges: Jupiter DEX 
+30. Listed on which exchanges: Coinstore
 16. Whitepaper link: [whitepaper ](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
 
 
 32. Tokenomics (1. Token distribution plan; 2. Does the token have burning, deflation, and additional issuance mechanisms?):   [distribution plan ](https://github.com/starsseed/memetoken/blob/main/distribution-plan.md)
 20. Token price decimal place: 6
 
-24. Contract address: AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
-25. Link to Blockchain Explorer:  https://solscan.io/account/AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
-26. Number of coin holding addresses: 1
+24. Contract address: A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
+25. Link to Blockchain Explorer:  https://solscan.io/account/A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
+26. Number of coin holding addresses: 59
 
 
 
