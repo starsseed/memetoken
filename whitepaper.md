@@ -67,9 +67,9 @@ Chain : SOL
 
 Max Total supply: 136,000,000,000
 
-Contract address: AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
+Contract address: A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
 
-Link to Blockchain Explorer: https://solscan.io/account/AaKpY4shheMimaRxDQrqkJLqfZkv4bSpTrmShkdDayWh
+Link to Blockchain Explorer: https://solscan.io/token/A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
 
 Token Mint Date: March 28, 2024 01:40:19 +UTC
 
