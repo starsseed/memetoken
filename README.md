@@ -8,19 +8,18 @@
 15. Number of Telegram followers: 4
 17. Official email: f1meme@proton.me
 23. Chain type (BSC, ERC, TRC, etc.): SOL
-28. Are we the first exchange to launch token (the first currency will have a 15-day anti-breaking setting): yes
+28. first exchange to launch token : Coinstore
 5. Total Issue supply:   136,000,000,000
-27. Market-Making account (1-2): id 36310276297828359
 7. Issuance price: 0.000001 usdt
-8. Current price: 0 usdt
+8. Current price: 0.000010 usdt
 21. Opening price: 0.000001 usdt
 
-6. Total circulation supply: 0 
+6. Total circulation supply: 78% 
 19. Quantity decimal place:  9 
 13. Number of Twitter followers: 500
 18. Project Introduction : Distributing Meme Tokens to all the F1 fans who follows new memes after each and every F1 sessions   
-22. Whether any presale (if there is presale needs to fill in the first round price):  Negative    
-29. Expected launch time:  12 April 2024
+22. Was there presale:  Negative    
+29. launch date:  12 April 2024
 30. Listed on which exchanges: Coinstore
 16. Whitepaper link: [whitepaper ](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
 
@@ -30,7 +29,7 @@
 
 24. Contract address: A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
 25. Link to Blockchain Explorer:  https://solscan.io/account/A5D4sQ3gWgM7QHFRyo3ZavKa9jMjkfHSNR6rX5TNJB8y
-26. Number of coin holding addresses: 59
+26. Number of coin holding addresses: 70++
 
 
 
@@ -40,11 +39,11 @@
 
 ####  keep updating 
 
-9. Total market value: (unit: USDT)  1,990,0000 
-10. Circulation market value: (unit: USDT)  0 
+9. Total market value: (unit: USDT)  1,290,0000 
+10. Circulation market value: (unit: USDT) --- TBC 
 
 #### pending 
 
 33. CoinMarketCap query link: 
 34. CoinGecko query link: 
-35. Any special needs/requests, and the content of the needs:  Token2049 Singapore - contest and giveaway. Assuming we will hit the price $0.0001 in september, we give away 1 million BOXBOX token for each member who has 1. min 1,000,000 BOXBOX token for 90 days .  2. wearing Yellow color shirt 3. with Singapore F1 grand stand ticket.  
+35. Special Note: BOXBOX will exhibit in Singapore Token 2049 
