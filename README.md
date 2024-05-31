@@ -5,22 +5,22 @@
 11. Official website:  [f1meme.com](f1meme.com)
 12. Twitter link:  https://twitter.com/F1memeBoxbox 
 14. Telegram link:  https://t.me/+Fh1tZvWni8oxM2Zh
-15. Number of Telegram followers: 4
+
 17. Official email: f1meme@proton.me
 23. Chain type (BSC, ERC, TRC, etc.): SOL
-28. first exchange to launch token : Coinstore
+28. first exchange to launch token : Coinstore.com
 5. Total Issue supply:   136,000,000,000
 7. Issuance price: 0.000001 usdt
 8. Current price: 0.000010 usdt
 21. Opening price: 0.000001 usdt
 
-6. Total circulation supply: 78% 
 19. Quantity decimal place:  9 
 13. Number of Twitter followers: 500
 18. Project Introduction : Distributing Meme Tokens to all the F1 fans who follows new memes after each and every F1 sessions   
 22. Was there presale:  Negative    
 29. launch date:  12 April 2024
-30. Listed on which exchanges: Coinstore
+30. CEX Listing: Coinstore  
+31. DEX Listing: Raydium, Meteora, Jupiter
 16. Whitepaper link: [whitepaper ](https://github.com/starsseed/memetoken/blob/main/whitepaper.md)
 
 
